@@ -1,18 +1,57 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="46117139-9b73-4f98-8f01-46fb6346417f" name="Changes" comment="" />
+    <list default="true" id="46117139-9b73-4f98-8f01-46fb6346417f" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/system/models/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/system/models/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/system/models/discount.py" beforeDir="false" afterPath="$PROJECT_DIR$/system/models/discount.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/system/models/order.py" beforeDir="false" afterPath="$PROJECT_DIR$/system/models/order.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/system/models/product.py" beforeDir="false" afterPath="$PROJECT_DIR$/system/models/product.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/system/serializers/discount_serializer.py" beforeDir="false" afterPath="$PROJECT_DIR$/system/serializers/discount_serializer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/system/serializers/order_serializer.py" beforeDir="false" afterPath="$PROJECT_DIR$/system/serializers/order_serializer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/system/serializers/product_serializer.py" beforeDir="false" afterPath="$PROJECT_DIR$/system/serializers/product_serializer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/system/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/system/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/system/viewsets/Discount_viewset.py" beforeDir="false" afterPath="$PROJECT_DIR$/system/viewsets/Discount_viewset.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/system/viewsets/order_viewset.py" beforeDir="false" afterPath="$PROJECT_DIR$/system/viewsets/order_viewset.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/system/viewsets/product_viewset.py" beforeDir="false" afterPath="$PROJECT_DIR$/system/viewsets/product_viewset.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
+    <excluded-from-favorite>
+      <branch-storage>
+        <map>
+          <entry type="LOCAL">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="master" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </excluded-from-favorite>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 6
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
   <component name="ProjectId" id="2q9y61Wdj3jN7a0OtMnzzlQJZXH" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -22,7 +61,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master"
+    "git-widget-placeholder": "main"
   }
 }]]></component>
   <component name="SharedIndexes">
@@ -42,5 +81,16 @@
       <updated>1734088907791</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
