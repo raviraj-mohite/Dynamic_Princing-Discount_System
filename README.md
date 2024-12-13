@@ -18,3 +18,6 @@ pricing_discount/
 │   ├── views/                # ViewSets for Product, Discount, and Order
 │   └── urls.py               # URLs for system app
 └── manage.py                 # Django management script
+
+Access the API:
+Example: http://127.0.0.1:8000/api/system/products/ for product-related endpoints.
